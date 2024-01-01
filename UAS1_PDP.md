@@ -42,7 +42,7 @@ flowchart TD
 
 ## 8. Link folder kode pemrograman dari game
 
-game 1/src
+[game 1/src](https://github.com/rakaalpiansyah/Project-Game/tree/main/game%201/src)
 
 ## 9. Game menerapkan prinsip-prinsip dasar pemrograman seperti
 
