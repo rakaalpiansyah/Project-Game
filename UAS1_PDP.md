@@ -17,7 +17,7 @@ Life GO
 Sebagai | Saya Ingin Bisa | Sehingga | Prioritas
 ---|---|---|---
 Pengguna | Memulai permainan | Bisa Bermain | ⭐⭐⭐⭐⭐
-Pengguna | Mengarahkan Kendali| ⭐⭐⭐⭐⭐
+Pengguna | Mengarahkan Kendali|  ⭐⭐⭐⭐⭐
 Player | Berjalan menuju lokasi aman | ⭐⭐⭐⭐⭐
 Player | Menghindari dari meteor | Bisa menemukan Makanan dan Ilmu | ⭐⭐⭐⭐
 
@@ -29,7 +29,7 @@ Player | Menghindari dari meteor | Bisa menemukan Makanan dan Ilmu | ⭐⭐⭐�
 
 ```
 flowchart TD
-    A[Mulai] <-->B[Mencari Ilmu]
+    A[Mulai] <-->B[Life Go]
     B <--> C[Gangguan Meteor Jatuh]
     C <--> D[Menghindar dari Meteor]
     D <--> E[Nyawa Habis/0]
